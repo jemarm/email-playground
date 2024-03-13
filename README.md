@@ -1,0 +1,1 @@
+This is a simple Python script that demonstrates how to send an email using SMTP (Simple Mail Transfer Protocol) with the smtplib library. It also utilizes the email.message.EmailMessage class for constructing the email message and the string.Template class for templating the HTML content of the email.
